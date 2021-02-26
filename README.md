@@ -29,5 +29,5 @@ public class StringHelper {
 		
 		return primeros2Carac.equals(ultimos2Carac);
 	}
-	
+//SOLOR
 }
